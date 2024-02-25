@@ -1,0 +1,12 @@
+.env
+
+# data
+*.txt
+*.gguf
+
+storage/
+models/
+data/
+
+# misc
+.DS_Store
