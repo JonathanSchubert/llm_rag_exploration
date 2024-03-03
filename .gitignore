@@ -4,9 +4,10 @@
 *.txt
 *.gguf
 
-storage/
+storage*
 models/
 data/
 
 # misc
 .DS_Store
+*.md
