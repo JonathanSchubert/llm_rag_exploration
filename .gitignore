@@ -3,6 +3,7 @@
 # data
 *.txt
 *.gguf
+*.pdf
 
 storage*
 models/
